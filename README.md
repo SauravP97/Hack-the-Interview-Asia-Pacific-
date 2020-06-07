@@ -16,7 +16,7 @@ Source Code Solution for all the Problems of the Contest
        can be achieved (Yes).
        Otherwise our answer will be No.
   </li>
-  <li> Problem 2 : Optimal Network Routing</li>
+  <li> <h2>Problem 2 : Optimal Network Routing</h2>
        <a href="https://www.hackerrank.com/contests/hack-the-interview-iv-apac/challenges/optimal-path-1">Problem Link</a>
        <br><br>
        The Problem require to send a packet from top left cell of the grid to the bottom right cell with minimum
@@ -26,7 +26,8 @@ Source Code Solution for all the Problems of the Contest
        then you can also pass all the test cases if you can implement Priority Queue for storing the visited nodes. This
        will allow you to extract the node with a minimum distance value in log(N) time, hence improving the entire time
        complexity of your algorithm.
-  <li> Problem 3 : Number of Integers
+   </li>
+  <li> <h2>Problem 3 : Number of Integers</h2>
        <a href="https://www.hackerrank.com/contests/hack-the-interview-iv-apac/challenges/maximum-or-1"></a>
        <br><br>
        You need to find all numbers greater than L and less than equal to R having exactly K non-zero digit.
