@@ -28,7 +28,7 @@ Source Code Solution for all the Problems of the Contest
        complexity of your algorithm.
    </li>
   <li> <h2>Problem 3 : Number of Integers</h2>
-       <a href="https://www.hackerrank.com/contests/hack-the-interview-iv-apac/challenges/maximum-or-1"></a>
+       <a href="https://www.hackerrank.com/contests/hack-the-interview-iv-apac/challenges/maximum-or-1">Problem Link</a>
        <br><br>
        You need to find all numbers greater than L and less than equal to R having exactly K non-zero digit.
        This problem had a very large constraints for L and R. Hence can not be solved through a simple brute force approach.
