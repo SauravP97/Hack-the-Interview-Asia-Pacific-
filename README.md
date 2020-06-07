@@ -21,7 +21,7 @@ Source Code Solution for all the Problems of the Contest
        <br><br>
        The Problem require to send a packet from top left cell of the grid to the bottom right cell with minimum
        effort. <br>
-       The Problem can be solved through a slight changed version of dijkstras algorithm. Instead of calculating the 
+       It can be solved through a slight changed version of dijkstras algorithm. Instead of calculating the 
        minimum distance you need to calculate the maximum edge length found along the path. If you can calculate that 
        then you can also pass all the test cases if you can implement Priority Queue for storing the visited nodes. This
        will allow you to extract the node with a minimum distance value in log(N) time, hence improving the entire time
